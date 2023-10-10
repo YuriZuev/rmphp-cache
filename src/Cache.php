@@ -5,7 +5,7 @@
  */
 
 
-namespace Rmphp\Cache\Cache;
+namespace Rmphp\Cache;
 
 use Exception;
 
