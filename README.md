@@ -7,15 +7,15 @@ Cache component for **Rmphp**
 Stable version
 
 ```bash
-composer require rmphp/cache
+composer require rmphp/cache-file
 ```
 ```bash
-composer require rmphp/cache:"^1.0"
+composer require rmphp/cache-file:"^1.0"
 ```
 
 
 Dev version contains the latest changes
 
 ```bash
-composer require rmphp/cache:"1.x-dev"
+composer require rmphp/cache-file:"1.x-dev"
 ```
