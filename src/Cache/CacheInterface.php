@@ -5,7 +5,7 @@
  */
 
 
-namespace Cache;
+namespace Rmphp\Cache\Cache;
 
 interface CacheInterface {
 
